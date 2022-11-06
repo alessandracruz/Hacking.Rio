@@ -54,6 +54,4 @@ Estudante de Engenharia de Software
 
 ## :certificate: *Certificado de Participação
 
-![image](
-
-
+![image]
