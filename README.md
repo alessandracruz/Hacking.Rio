@@ -48,4 +48,12 @@ Arquiteta, Urbanista e Estudante de Engenharia de Software
 Estudante de Engenharia de Software
 <div><a href="https://www.linkedin.com/in/pedro-lopes-110381252" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
+## 🥉 *Premiação*
+
+![image](https://media-exp1.licdn.com/dms/image/C4D22AQHSrUZZ6F8qDw/feedshare-shrink_2048_1536/0/1662939351778?e=1670457600&v=beta&t=TrYhnvtngkH4fHwGBJTpdzHyq5JvLZjPvAesNBZMcKE)
+
+## :certificate: *Certificado de Participação
+
+![image](
+
 
