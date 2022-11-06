@@ -1,3 +1,6 @@
+# **Sobre o Hacking.Rio**
+O ***Hacking.Rio*** é o maior Hackathon da América Latina, uma competição de hackers, especialistas em tecnologia reunidos em times, criando soluções de alto impacto para os desafios reais da sociedade. Nesse ano de 2022, os desafios eram relacionados aos ODS (Objetivos de Desenvolvimento Sustentável) da ONU. Foi a quinta edição do evento e aconteceu online com inscritos de vários lugares do Brasil. Foram quase 2000 inscritos, criando mais de 100 equipes, com 77 equipes que cumpriram a entrega, 13 equipes finalistas e 3 vencedores! Nossa equipe ficou em Terceiro Lugar, com o desafio da ***Hurb***.
+
 # **ControlE - 2022**
 
 ![image](https://user-images.githubusercontent.com/58606662/188317939-478929f9-29ad-42e1-8428-ba6086d53ac5.png)
