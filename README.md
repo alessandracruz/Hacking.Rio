@@ -50,7 +50,7 @@ Estudante de Engenharia de Software
 
 ## 🥉 *Premiação*
 
-![image](https://media-exp1.licdn.com/dms/image/C4D22AQHSrUZZ6F8qDw/feedshare-shrink_2048_1536/0/1662939351778?e=1670457600&v=beta&t=TrYhnvtngkH4fHwGBJTpdzHyq5JvLZjPvAesNBZMcKE)
+![image](https://github.com/alessandracruz/Imagens/blob/main/Premia%C3%A7%C3%A3o.jpeg)
 
 ## :bookmark_tabs: *Certificado de Participação*
 
